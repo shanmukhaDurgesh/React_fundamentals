@@ -1,0 +1,215 @@
+/* table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  table tr:hover {background-color: #ddd;}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  } */
+
+
+
+  /* start */
+  /*   color variables */
+/*   border radius */
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  box-shadow: 0 5px 10px #e1e5ee;
+  background-color: white;
+  text-align: left;
+  overflow: hidden;
+}
+table thead {
+  box-shadow: 0 5px 10px #e1e5ee;
+  background: #5f9ea0;
+}
+table th {
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-size: 0.7rem;
+  font-weight: 900;
+}
+table td {
+  padding: 1rem 2rem;
+}
+table a {
+  text-decoration: none;
+  color: #2962ff;
+}
+table .status {
+  border-radius: 0.2rem;
+  background-color: red;
+  padding: 0.2rem 1rem;
+  text-align: center;
+}
+table .status-pending {
+  background-color: #fff0c2;
+  color: #a68b00;
+}
+table .status-paid {
+  background-color: #c8e6c9;
+  color: #388e3c;
+}
+table .status-unpaid {
+  background-color: #ffcdd2;
+  color: #c62828;
+}
+table .amount {
+  text-align: right;
+}
+table tr:nth-child(even) {
+  background-color: #f4f6fb;
+}
+
+
+
+.table-div {
+  max-width:100%;
+  overflow-x:auto;
+}
+
+.Table {
+  background-color:transparent;
+  min-width:100%;
+}
+
+.Table thead,
+.Table tbody {
+  display:block;
+}
+
+
+.Table tbody {
+  max-height:400px;
+  overflow-x:hidden;
+ }
+ 
+ .Table tr {
+   display:flex;
+ }
+ 
+.Table td, 
+.Table th {
+  overflow:hidden;
+  white-space:nowrap;
+  width:100%;
+}
+.Table th:nth-child(1),
+.Table td:nth-child(1) {
+  min-width:5%;
+  width: auto;
+}
+.Table th:nth-child(2),
+.Table td:nth-child(2) {
+  min-width:6%;
+  width: auto;
+}
+.Table th:nth-child(5),
+.Table td:nth-child(5) {
+  width: auto;
+  min-width: 18%;
+} */
+
+/* search */
+
+/* .search {
+  background: none !important;
+  border-radius: 200px !important;
+  height: 2.5rem !important;
+  display: flex !important;
+  align-items: center !important;
+  transition: all 0.75s ease-in-out !important;
+  justify-content: flex-end;
+}
+.search__text {
+  border: none !important;
+  background: transparent;
+  outline: 0;
+  color: white;
+  float: left;
+  line-height: 1rem !important;
+  width: 0;
+  transition: all 0.5s ease-in-out;
+  font-size: 0.8rem;
+}
+.search__button {
+  color: black;
+  background: salmon;
+  border-radius: 50%;
+  float: right;
+  height: 2.5rem;
+  width: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  transition: all 0.5s ease-in-out;
+}
+.search:hover {
+  background: #1e1e1e;
+}
+.search:hover > .search__text {
+  width: 12.5rem;
+  margin-left: 1rem;
+  background: transparent;
+}
+.search:hover > .search__button {
+  transform: scale(0.75);
+}
+.col-md-3.search:hover {
+  box-shadow: inset 1px 1px 1px 1px #efefef;
+  background: #f5f5f5 !important
+}
+input[type="text"]{
+  -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+input:focus {
+  outline: none;
+  border: none !important;
+  box-shadow: none !important;
+} */
+
+/* end */
